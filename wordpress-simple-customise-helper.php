@@ -2,6 +2,10 @@
 /**
  * Plugin Name: WordPress Simple Customise Helper
  * Description: A modular helper plugin for general WordPress customizations with a React Admin UI.
+ * Plugin URI: https://github.com/sahajananddigital/wordpress-simple-customise-helper
+ * GitHub Plugin URI: https://github.com/sahajananddigital/wordpress-simple-customise-helper
+ * Primary Branch: main
+ * Release Asset: true
  * Version: 1.0.0
  * Author: Multidots
  * Text Domain: wordpress-simple-customise-helper
