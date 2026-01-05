@@ -7,7 +7,8 @@
  * Primary Branch: main
  * Release Asset: true
  * Version: 1.0.0
- * Author: Multidots
+ * Author: Sahajanand Digital
+ * Author URI: https://sahajananddigital.in/
  * Text Domain: wordpress-simple-customise-helper
  */
 
